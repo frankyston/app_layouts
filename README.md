@@ -15,3 +15,6 @@ Não deixe de comentar e fazer sugestões, o objetivo desse repositório é ser 
 Abra uma issue e vamos discutir como fazer melhor.
 
 Todos agradecem.
+
+## Mock
+![Tinder](mock.png)
