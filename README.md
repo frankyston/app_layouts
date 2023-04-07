@@ -4,7 +4,7 @@ O objetivo desse projeto é usar como repositório de estudos de vários layouts
 
 ## Como usar esse repositório
 
-No botão de branchs, você vai encontrar os diferentes layouts desenvolvidos. Basta acessar a branch e ver o código dele.
+No botão de branchs (https://github.com/frankyston/app_layouts/branches), você vai encontrar os diferentes layouts desenvolvidos. Basta acessar a branch e ver o código dele.
 
 Todos os códigos foram feitos por mim, mas pode ter sido pego de algum vídeo ou pode ser algum desafio de curso.
 
